@@ -21,14 +21,14 @@ export function SignUp() {
         </div>
       </section>
 
-      <section className="flex-1 flex min-w-0 items-center justify-center not-lg:py-5 py-14 px-5 relative">
+      <section className="flex-1 w-full flex items-center justify-center not-lg:py-5 py-14 px-5 relative">
         <div className="absolute not-lg:hidden right-5 top-5 text-sm">
           <span className="text-center">Already have an account? </span>
           <Link to="/login" className="text-link underline">
             Sign In
           </Link>
         </div>
-        <div className="w-full max-w-xl h-full">
+        <div className="w-full max-w-xl">
           <SignUpForm />
         </div>
       </section>
