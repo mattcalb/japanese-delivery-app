@@ -107,7 +107,7 @@ This project is a web application that provides management for a Japanese delive
 
 ## 🌐 Live Demo
 The frontend is deployed on Vercel for preview and demonstration purposes.
-Check out the live demo: **[View Live Site](https://japanese-delivery-app-frontend-lt1xasrq0.vercel.app/)**
+Check out the live demo: **[View Live Site](https://japanese-delivery-app-frontend.vercel.app/)**
 
 ---
 ## 🚧 Project Status
@@ -127,5 +127,6 @@ Check out the live demo: **[View Live Site](https://japanese-delivery-app-fronte
 ---
 ## 📝 License
 This project is open source and available under the [MIT License](LICENSE).
+
 
 
