@@ -4,7 +4,7 @@ import { SignUpForm } from "../components/SignUpForm";
 export function SignUp() {
   return (
     <div className="flex flex-col lg:flex-row min-h-screen">
-      <section className="flex-1 bg-[url('src/assets/bg_signup.jpg')] bg-center bg-cover not-lg:min-h-[250px]">
+      <section className="flex-1 bg-[url('/bg_signup.jpg')] bg-center bg-cover not-lg:min-h-[250px]">
         <div className="w-full flex not-lg:py-5 py-14 px-5 lg:justify-center">
           <div className="flex flex-col space-y-4 text-white">
             <div className="lg:hidden text-sm">

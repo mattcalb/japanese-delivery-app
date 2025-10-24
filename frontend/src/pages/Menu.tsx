@@ -14,7 +14,7 @@ export function Menu() {
 
   return (
     <div className="flex flex-col items-center space-y-8 w-full mt-(--header-height)">
-      <div className="w-full flex items-center justify-center bg-[url('src/assets/bg_menu.jpg')] bg-center bg-cover h-60">
+      <div className="w-full flex items-center justify-center bg-[url('/bg_menu.jpg')] bg-center bg-cover h-60">
         <h2 className="text-white text-4xl font-medium">OUR MENU</h2>
       </div>
       <p className="w-full max-w-xl text-justify px-4">
