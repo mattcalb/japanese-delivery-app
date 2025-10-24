@@ -12,6 +12,7 @@ This project is a web application that provides management for a Japanese delive
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
 > **Note:** The application currently uses mock data for demonstration purposes while the backend is under development.
 
@@ -47,6 +48,8 @@ This project is a web application that provides management for a Japanese delive
 -   **Backend**:
     -   Node.js
     -   Express
+- **Database**:
+    - PostgreSQL
 -   **Build Tool**:
     -   Vite
     -   pnpm
@@ -123,3 +126,4 @@ Check out the live demo: **[View Live Site](https://japanese-delivery-app-fronte
 ---
 ## 📝 License
 This project is open source and available under the [MIT License](LICENSE).
+
