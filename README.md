@@ -123,7 +123,9 @@ Check out the live demo: **[View Live Site](https://japanese-delivery-app-fronte
 - Additional pages
 - Backend API setup
 - Full API integration
+- Dockerize the application
 ---
 ## 📝 License
 This project is open source and available under the [MIT License](LICENSE).
+
 
