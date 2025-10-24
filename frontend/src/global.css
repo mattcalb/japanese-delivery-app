@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+@import "tailwindcss";
+
+@theme {
+  --font-default: "Montserrat", sans-serif;
+  --color-background: #f7f7f7;
+  --color-gray: #919191;
+  --color-light-gray: #cecece;
+  --color-link: #187cff;
+  --header-height: 4rem;
+  --text-input: 0.895rem;
+}
+
+@utility primaryBtn {
+  color: white;
+  background-color: black;
+  border: 1px solid black;
+}
+
+@utility secondaryBtn {
+  color: black;
+  background-color: white;
+  border: 1px solid black;
+}
+
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+
+body {
+  font-family: var(--font-default);
+  background-color: var(--color-background);
+}
