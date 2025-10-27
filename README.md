@@ -1,6 +1,6 @@
 # Japanese Delivery App 🚀
 
-A modern fullstack web application built with React (Vite + TypeScript) on the frontend and Node.js on the backend.
+A full-stack web application built with React (Vite + TypeScript) and Node.js that simulates a modern online food delivery platform.
 
 ---
 ## ✨ Description
@@ -25,15 +25,22 @@ This project is a web application that provides management for a Japanese delive
 - [Live Demo](#-live-demo)
 - [Project Status](#-project-status)
 ---
+
 ## 🎯 Features
--   **Type Safety**: Full TypeScript support for better code quality and developer experience.
--   **Form Management**: React Hook Form with Zod validation for robust form handling.
--   **Data Fetching**: TanStack Query (React Query) for efficient server state management.
--   **Styling**: Tailwind CSS 4 for rapid UI development.
--   **Routing**: React Router 7 for navigation.
--   **RESTful API**: Node.js backend with clean API architecture.
--   ⚠️ **Work in Progress**: Some pages and features are still under development.
+
+**User Side**
+- Create an account and securely store user information  
+- Browse the menu and place delivery orders  
+- Track the real-time status of placed orders  
+
+**Admin Side**
+- View, add, update, and delete menu items  
+- Manage and track customer orders  
+
+> ⚠️ **Work in Progress:** Some pages and features are still under development.
+
 ---
+
 ## 🛠️ Technologies Used
 -   **Frontend**:
     -   React **19**
@@ -127,6 +134,7 @@ Check out the live demo: **[View Live Site](https://japanese-delivery-app-fronte
 ---
 ## 📝 License
 This project is open source and available under the [MIT License](LICENSE).
+
 
 
 
